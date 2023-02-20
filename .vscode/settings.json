@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "html.format.indentInnerHtml": true,
+    "javascript.format.semicolons": "insert",
+    "typescript.format.insertSpaceAfterConstructor": false,
+    "prettier.bracketSameLine": true
+}
